@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asrın Haliç</h1>
-<h3 align="center">A passionate frontend developer from Turkiye</h3>
+<h3 align="center">I am continually improving myself in the fields of HTML, CSS, JavaScript, and React.js. My goal is to become a proficient Front-End developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrinss&label=Profile%20views&color=0e75b6&style=flat" alt="asrinss" /> </p>
 
