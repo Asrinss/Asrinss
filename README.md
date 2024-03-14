@@ -1,4 +1,4 @@
-<img align= "right" src ="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=Visitors"/>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B++I'm+Asr%C4%B1n+Hali%C3%A7;"/>
@@ -33,11 +33,6 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asrinss/Asrinss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asrinss/Asrinss/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Asrinss/Asrinss/output/github-contribution-grid-snake.svg">
-</picture>
 
 <hr/>
 
@@ -47,3 +42,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asrinss&show_icons=true&locale=en" alt="asrinss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asrinss&" alt="asrinss" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asrinss/Asrinss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asrinss/Asrinss/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Asrinss/Asrinss/output/github-contribution-grid-snake.svg">
+</picture>
