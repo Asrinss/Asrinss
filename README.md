@@ -15,7 +15,7 @@
 - 💬 Ask me about **CSS, HTML, Javascript, React**
 
 <div align="center>
-  <a href="a.halic@hotmail.com">
+  <a href=a.halic@hotmail.com>
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/asr%C4%B1n-hali%C3%A7" target="_blank">
