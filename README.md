@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B++I'm+Asr%C4%B1n+Hali%C3%A7;"/>
 </h1>
