@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a junior front-end developer. I am passionate about improving my skills in web development and continuously learning new technologies. My goal is to stay up-to-date with modern web technologies and apply best practices in my projects.
+I am a junior front-end developer. I am passionate about improving my skills in web development and continuously learning new technologies.
 
 
 ## 🌐 Socials:
